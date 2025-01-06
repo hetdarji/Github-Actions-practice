@@ -39,7 +39,7 @@ If you're new to GitHub Actions, I highly recommend checking out the official [G
 
 ## 📢 Connect with Me
 
-If you want to follow my progress or connect with me professionally, feel free to visit my [LinkedIn Profile](https://www.linkedin.com/in/yourprofile) where I share updates, projects, and insights into my learning journey in tech.
+If you want to follow my progress or connect with me professionally, feel free to visit my [LinkedIn Profile](https://www.linkedin.com/in/het-darji-136918215/) where I share updates, projects, and insights into my learning journey in tech.
 
 ---
 
